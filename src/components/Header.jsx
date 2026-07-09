@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import photo from "../assets/images/profile.jpeg";
 import { TypeAnimation } from "react-type-animation";
 import { FaArrowUpRightFromSquare } from "react-icons/fa6";
-import qr from "../assets/Images/qr-code.png";
+import qr from "../assets/images/qr-code.png";
 
 export default function Header() {
   const [showPopup, setShowPopup] = useState(false);
