@@ -3,10 +3,10 @@ import 'animate.css';
 import React from "react";
 import Header from "./components/Header";
 import About from "./components/About";
-import Carousel3D from "./Components/MySkills";
+import Carousel3D from "./components/MySkills";
 import Projects from "./components/Projects";
 import Education from "./components/Education";
-import Testimonials from "./Components/Testimonials";
+import Testimonials from "./components/Testimonials";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
