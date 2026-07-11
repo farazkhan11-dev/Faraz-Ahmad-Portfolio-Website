@@ -81,7 +81,7 @@ function Testimonials() {
           >
             <div className="flex items-center gap-3 mb-4">
               <FaUser className="text-gray-400 text-4xl bg-black p-2 border-2 border-gray-600 rounded-full flex-shrink-0" />
-              <h2 className="text-gray-400 text-xl font-bold">Jaweria Afzal</h2>
+              <h2 className="text-gray-400 text-xl font-bold">Daniyal Khalid</h2>
             </div>
             <FaQuoteLeft className="text-green-500 text-4xl mb-3" />
             <p className="text-sm text-gray-500 leading-relaxed">
@@ -155,7 +155,7 @@ function Testimonials() {
           >
             <div className="flex items-center gap-3 mb-4">
               <FaUser className="text-gray-400 text-5xl bg-black p-3 border-2 border-gray-600 rounded-full" />
-              <h2 className="text-gray-400 text-2xl font-bold">Jaweria Afzal</h2>
+              <h2 className="text-gray-400 text-2xl font-bold">Daniyal Khalid</h2>
             </div>
             <FaQuoteLeft className="text-green-500 text-5xl p-3 rounded-full" />
             <p className="text-sm text-gray-500 leading-relaxed">
